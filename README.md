@@ -1,4 +1,4 @@
-# Transcription Whisper Notebook
+# Fine Tune Transcription Whisper Notebook
 
 Notes on usage:
 
